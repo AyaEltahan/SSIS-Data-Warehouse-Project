@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF51E8C-A4AF-5A12-1B12-B91AF23116FD}|ETL_Sales_Project\\ETL_Sales_Project.dtproj|C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\fact_sales.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{3CF51E8C-A4AF-5A12-1B12-B91AF23116FD}|ETL_Sales_Project\\ETL_Sales_Project.dtproj|solutionrelative:ETL_Sales_Project\\fact_sales.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF51E8C-A4AF-5A12-1B12-B91AF23116FD}|ETL_Sales_Project\\ETL_Sales_Project.dtproj|C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\Dim_Product.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{3CF51E8C-A4AF-5A12-1B12-B91AF23116FD}|ETL_Sales_Project\\ETL_Sales_Project.dtproj|solutionrelative:ETL_Sales_Project\\Dim_Product.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF51E8C-A4AF-5A12-1B12-B91AF23116FD}|ETL_Sales_Project\\ETL_Sales_Project.dtproj|C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\Dim_Customer.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{3CF51E8C-A4AF-5A12-1B12-B91AF23116FD}|ETL_Sales_Project\\ETL_Sales_Project.dtproj|solutionrelative:ETL_Sales_Project\\Dim_Customer.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF51E8C-A4AF-5A12-1B12-B91AF23116FD}|ETL_Sales_Project\\ETL_Sales_Project.dtproj|C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\Dim_SaleMan.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{3CF51E8C-A4AF-5A12-1B12-B91AF23116FD}|ETL_Sales_Project\\ETL_Sales_Project.dtproj|solutionrelative:ETL_Sales_Project\\Dim_SaleMan.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim_SaleMan.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\Dim_SaleMan.dtsx",
+              "RelativeDocumentMoniker": "ETL_Sales_Project\\Dim_SaleMan.dtsx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\Dim_SaleMan.dtsx [Design]",
+              "RelativeToolTip": "ETL_Sales_Project\\Dim_SaleMan.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-20T15:13:24.386Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fact_sales.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\fact_sales.dtsx",
+              "RelativeDocumentMoniker": "ETL_Sales_Project\\fact_sales.dtsx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\fact_sales.dtsx [Design]",
+              "RelativeToolTip": "ETL_Sales_Project\\fact_sales.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-18T07:28:18.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim_Customer.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\Dim_Customer.dtsx",
+              "RelativeDocumentMoniker": "ETL_Sales_Project\\Dim_Customer.dtsx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\Dim_Customer.dtsx [Design]",
+              "RelativeToolTip": "ETL_Sales_Project\\Dim_Customer.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-15T11:13:37.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim_Product.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\Dim_Product.dtsx",
+              "RelativeDocumentMoniker": "ETL_Sales_Project\\Dim_Product.dtsx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ETL_Sales_Project\\ETL_Sales_Project\\Dim_Product.dtsx [Design]",
+              "RelativeToolTip": "ETL_Sales_Project\\Dim_Product.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-14T10:37:44.378Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
